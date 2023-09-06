@@ -10,8 +10,8 @@ gsap.registerPlugin(ScrollTrigger);
 gsap.from('.secondPage', {
     x: "-150%", opacity: 0, duration: 5, scrollTrigger: {
         trigger: '.secondPage',
-        start: "top 40%",
-        end: "center bottom",
+        start: "top 75%",
+        end: "top 75%",
         scrub: 1,
         markers: false,
     }
@@ -20,8 +20,8 @@ gsap.from('.secondPage', {
 gsap.from('.thirdPage', {
     x: "-150%", opacity: 0, duration: 5, scrollTrigger: {
         trigger: '.thirdPage',
-        start: "top 40%",
-        end: "center bottom",
+        start: "top 75%",
+        end: "top 75%",
         scrub: 1,
         markers: false,
     }
@@ -30,8 +30,8 @@ gsap.from('.thirdPage', {
 gsap.from('.fourthPage', {
     x: "-150%", opacity: 0, duration: 5, scrollTrigger: {
         trigger: '.fourthPage',
-        start: "top 40%",
-        end: "center bottom",
+        start: "top 75%",
+        end: "top 75%",
         scrub: 1,
         markers: false,
     }
@@ -40,8 +40,8 @@ gsap.from('.fourthPage', {
 gsap.from('.fifthPage', {
     x: "-150%", opacity: 0, duration: 5, scrollTrigger: {
         trigger: '.fifthPage',
-        start: "top 40%",
-        end: "center bottom",
+        start: "top 75%",
+        end: "top 75%",
         scrub: 1,
         markers: false,
     }
@@ -50,8 +50,8 @@ gsap.from('.fifthPage', {
 gsap.from('.sixthPage', {
     x: "-150%", opacity: 0, duration: 5, scrollTrigger: {
         trigger: '.sixthPage',
-        start: "top 40%",
-        end: "center bottom",
+        start: "top 75%",
+        end: "top 75%",
         scrub: 1,
         markers: false,
     }
